@@ -28,7 +28,9 @@ C) True '2' convert to 2
 D) False since true convert to 1
 E) true since Boolean(2) is true
 15. == compare the value, ===compare both type and value
+
 17. It will return [2,4,6]. For each element, call doSomething to mulitiply by 2 and store results.
+
 19. 1
     4
     3
